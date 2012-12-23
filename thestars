@@ -1,0 +1,11 @@
+#include<iostream.h>
+#include<math.h>
+int main(){
+float a;
+cin>>a;
+cout<<a<<"\n";
+cout<<a<<a<<"\n";
+cout<<a<<a<<a<<"\n";
+cout<<a<<a<<a<<a;
+//this program is also done
+}
